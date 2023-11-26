@@ -1,4 +1,3 @@
-# bwozniczka.github.io
 Witaj na mojej stronie na GitHub Pages! 🚀 
 
 ## O Mnie:
